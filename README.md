@@ -19,7 +19,7 @@
 <img align="left" alt="Slack" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/slack.jpg" />
 
 <br><br><br>
-<hr class="dotted">
+<hr class="dotted">     
 
 ### 💻🔗 Social
 
@@ -27,7 +27,6 @@
  <a href="https://www.linkedin.com/in/erencelikk/" target="blank"><img align="center" src="https://github.com/tarnilok/tarnilok/blob/main/images/LinkedIn.svg" alt="LinkedIn" /></a>
 ![](https://komarev.com/ghpvc/?username=tarnilok&color=blue&style=flat-square)
 
-<br>
 <hr class="dotted">
 
 ### 📧 Contact Me ! 
