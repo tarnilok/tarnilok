@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Koray</h1>
 
 <h2 align="center">👉I'm a Husband, Father and Full-Stack Developer👈</h2>
-- ✍ I'm an IT student at Clarusway
-- 🚀 Currently, I am working on HTML, CSS, JavaScript and Python
-- 🙏 Please look into my repos, and don't avoid to give me advice
+- ✍ I'm an IT student at Clarusway<br>
+- 🚀 Currently, I am working on HTML, CSS, JavaScript and Python<br>
+- 🙏 Please look into my repos, and don't avoid to give me advice<br>
 <hr class="dotted">
 
 ### Languages and Tools I am using: 
@@ -25,14 +25,14 @@
 
 <a href="" target="blank"><img align="center" src="https://github.com/tarnilok/tarnilok/blob/main/images/Medium.svg" alt="Medium" /></a>
  <a href="https://www.linkedin.com/in/erencelikk/" target="blank"><img align="center" src="https://github.com/tarnilok/tarnilok/blob/main/images/LinkedIn.svg" alt="LinkedIn" /></a>
-![](https://komarev.com/ghpvc/?username=your-github-username=tarnilok&color=blue&style=flat-square)
+![](https://komarev.com/ghpvc/?username=your-github-username=tarnilok&color=blue&style=flat-square&style=for-the-badge)
 
 <br><br><br>
 <hr class="dotted">
 
 ### 📧 Contact Me ! 
 
-<a href="mailto:tarnilok@gmail.com" target="blank"><img align="center" src="https://github.com/tarnilok/tarnilok/blob/main/Gmail.svg" alt="gmail" /></a>
+<a href="mailto:tarnilok@gmail.com" target="blank"><img align="center" src="https://github.com/tarnilok/tarnilok/blob/main/images/Gmail.svg" alt="gmail" /></a>
 
 
 
