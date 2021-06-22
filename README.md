@@ -24,7 +24,7 @@
 ### 💻🔗 Social
 
 <a href="" target="blank"><img align="center" src="https://github.com/tarnilok/tarnilok/blob/main/images/Medium.svg" alt="Medium" /></a>
- <a href="https://www.linkedin.com/in/erencelikk/" target="blank"><img align="center" src="https://github.com/tarnilok/tarnilok/blob/main/images/LinkedIn.svg" alt="LinkedIn" /></a>
+ <a href="" target="blank"><img align="center" src="https://github.com/tarnilok/tarnilok/blob/main/images/LinkedIn.svg" alt="LinkedIn" /></a>
 ![](https://komarev.com/ghpvc/?username=tarnilok&color=blue&style=flat-square)
 
 <hr class="dotted">
