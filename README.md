@@ -18,7 +18,7 @@
 <img align="left" alt="GitHub" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/github.png" />
 <img align="left" alt="Jira" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/jira.jpg" />
 <img align="left" alt="Slack" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/slack.jpg" />
-<img align="left" alt="django" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/django.png" />
+<img align="left" alt="django" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/django.png" />
 <img align="left" alt="react" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/react.png" />
 <img align="left" alt="sass" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/sass.png" /><br><br><br><br>
 <img align="left" alt="Material-UI" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/MaterialUI.png" vlign=center/>
