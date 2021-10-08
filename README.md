@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Koray</h1>
+<h1 align="center"><code>Hi there, I'm Koray</code></h1>
 <h2 align="center"><code>I'm a Husband, Father, Developer and Engineer</code></h2>
 - ✍ I'm a Front-End Developer<br>
 - 🌱 I'm learning Back-End Development<br>
