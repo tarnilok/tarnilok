@@ -25,8 +25,15 @@
 ### 💻🔗 Social
 
 <!-- <a href="" target="blank"><img align="center" src="https://github.com/tarnilok/tarnilok/blob/main/images/Medium.svg" width= "150px" height="30px" alt="Medium" /></a> -->
- <a href="https://www.linkedin.com/in/koray-eker/" target="blank"><img align="center" src="https://github.com/tarnilok/tarnilok/blob/main/images/LinkedIn.svg" alt="LinkedIn" /></a>\
-![](https://komarev.com/ghpvc/?username=tarnilok)
+
+<table>
+    <tr>
+        <td vlign=center><a href="https://www.linkedin.com/in/koray-eker/" target="blank"><img align="center" src="https://github.com/tarnilok/tarnilok/blob/main/images/LinkedIn.svg" alt="LinkedIn" /></a></td>
+        <td vlign=center>
+        
+![](https://komarev.com/ghpvc/?username=tarnilok)</td>
+    </tr>
+</table>
 
 <hr class="dotted">
 
