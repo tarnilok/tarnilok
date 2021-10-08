@@ -27,7 +27,7 @@
 <img align="left" alt="postgreSQL" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/PostgreSQL.png" />
 <img align="left" alt="postman" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/postman.png" />
 <img align="left" alt="mongoDB" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/mongoDB.png" />
-<!-- <img align="left" alt="MySQL" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/MySQL.png"/> -->
+<img align="left" alt="MySQL" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/MySQL.png"/>\
 <br><br><br>
 <hr class="dotted">
 
