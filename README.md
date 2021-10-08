@@ -26,7 +26,7 @@
 
 <a href="" target="blank"><img align="center" src="https://github.com/tarnilok/tarnilok/blob/main/images/Medium.svg" width= "150px" height="30px" alt="Medium" /></a>
  <a href="" target="blank"><img align="center" width= "150px" height="30px" src="https://github.com/tarnilok/tarnilok/blob/main/images/LinkedIn.svg" alt="LinkedIn" /></a>
-![](https://komarev.com/ghpvc/?username=tarnilok&color=blue&style=flat-square)
+![](https://komarev.com/ghpvc/?username=tarnilok&color=blue&style=flat-square&vertical-align=center)
 
 <hr class="dotted">
 
