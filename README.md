@@ -9,25 +9,25 @@
 
 ### Languages and Tools I am using:
 
-<img align="left" alt="Visual Studio Code" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/vscode.png">
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/HTML5.png" />
-<img align="left" alt="CSS3" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/css3.png"/>
-<img align="left" alt="JavaScript" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/javascript.png" />
-<img align="left" alt="Python" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/python_.png" />
-<img align="left" alt="Git" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/git.png" />
-<img align="left" alt="GitHub" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/github.png" />
-<img align="left" alt="Jira" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/jira.jpg" />
-<img align="left" alt="Slack" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/slack.jpg" />
+<img align="left" alt="Visual Studio Code" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/vscode.png">
+<img align="left" alt="HTML5" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/HTML5.png" />
+<img align="left" alt="CSS3" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/css3.png"/>
+<img align="left" alt="JavaScript" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/javascript.png" />
+<img align="left" alt="Python" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/python_.png" />
+<img align="left" alt="Git" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/git.png" />
+<img align="left" alt="GitHub" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/github.png" />
+<img align="left" alt="Jira" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/jira.jpg" />
+<img align="left" alt="Slack" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/slack.jpg" />
 <img align="left" alt="django" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/django.png" />
-<img align="left" alt="react" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/react.png" />
-<img align="left" alt="sass" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/sass.png" /><br><br><br><br>
-<img align="left" alt="Material-UI" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/MaterialUI.png" vlign=center/>
-<img align="left" alt="bootstrap" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/Bootstrap.jpg" />
-<img align="left" alt="styledcomponent" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/styledcomponents.png" />
-<img align="left" alt="postgreSQL" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/PostgreSQL.png" />
-<img align="left" alt="postman" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/postman.png" />
-<img align="left" alt="mongoDB" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/mongoDB.png" />
-<img align="left" alt="MySQL" width="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/MySQL.png"/><br><br><br>
+<img align="left" alt="react" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/react.png" />
+<img align="left" alt="sass" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/sass.png" />
+<img align="left" alt="Material-UI" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/MaterialUI.png" vlign=center/>
+<img align="left" alt="bootstrap" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/Bootstrap.jpg" />
+<img align="left" alt="styledcomponent" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/styledcomponents.png" />
+<img align="left" alt="postgreSQL" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/PostgreSQL.png" />
+<img align="left" alt="postman" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/postman.png" />
+<img align="left" alt="mongoDB" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/mongoDB.png" />
+<img align="left" alt="MySQL" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/MySQL.png"/><br><br><br>
 <hr class="dotted">
 
 ### 💻🔗 Social
