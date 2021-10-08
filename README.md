@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Koray</h1>
 
-<h2 align="center">👉I'm a Husband, Father, Developer and Engineer👈</h2>
+<h2 align="center">👉<code>I'm a Husband, Father, Developer and Engineer</code>👈</h2>
 - ✍ I'm a Front-End Developer<br>
 - 🌱 I'm learning Back-End Development<br>
 - 🚀 Currently, I am working on React and Django<br>
@@ -26,7 +26,7 @@
 
 <a href="" target="blank"><img align="center" src="https://github.com/tarnilok/tarnilok/blob/main/images/Medium.svg" width= "150px" height="30px" alt="Medium" /></a>
  <a href="" target="blank"><img align="center" width= "150px" height="30px" src="https://github.com/tarnilok/tarnilok/blob/main/images/LinkedIn.svg" alt="LinkedIn" /></a>
-![](https://komarev.com/ghpvc/?username=tarnilok&color=blue&style=flat-square&vertical-align=center)
+![](https://komarev.com/ghpvc/?username=tarnilok&color=blue&style=flat-square&)
 
 <hr class="dotted">
 
