@@ -1,8 +1,8 @@
-<h1 align="left"><code>Hi there, I'm Koray</code></h1>
+<h1 align="left"><code>Hi there👋, I'm Koray</code></h1>
 <h2 align="left"><code>I'm a Husband, Father, Developer and Engineer</code></h2>
 - ✍ I'm a Front-End Developer<br>
 - 🌱 I'm learning Back-End Development<br>
-- 🚀 Currently, I am working on React and Django<br>
+- 💻 Currently, I am working on React and Django<br>
 - 🙏 I want to start 2022 as a full skilled Full Stack Developer<br>
 <hr class="dotted">
 
