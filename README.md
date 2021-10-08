@@ -9,7 +9,7 @@
 
 ### Languages and Tools I am using:
 
-<img align="left" alt="Visual Studio Code" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/vscode.png" border="10px">
+<img align="left" alt="Visual Studio Code" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/vscode.png">
 <img align="left" alt="HTML5" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/HTML5.png" />
 <img align="left" alt="CSS3" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/css3.png"/>
 <img align="left" alt="JavaScript" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/javascript.png" />
