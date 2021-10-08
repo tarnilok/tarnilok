@@ -28,8 +28,8 @@
 
 <table>
     <tr>
-        <td vlign=center><a href="https://www.linkedin.com/in/koray-eker/" target="blank"><img align="center" src="https://github.com/tarnilok/tarnilok/blob/main/images/LinkedIn.svg" alt="LinkedIn" /></a></td>\
-        <td vlign=center>
+        <td vlign=center><a href="https://www.linkedin.com/in/koray-eker/" target="blank"><img align="center" src="https://github.com/tarnilok/tarnilok/blob/main/images/LinkedIn.svg" alt="LinkedIn" /></a></td>
+        <td vlign=center><br>
         
 ![](https://komarev.com/ghpvc/?username=tarnilok)</td>
     </tr>
