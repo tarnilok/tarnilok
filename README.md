@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Koray</h1>
 
 <h2 align="center">👉<code>I'm a Husband, Father, Developer and Engineer</code>👈</h2>
-![](https://komarev.com/ghpvc/?username=tarnilok&color=blue&style=flat-square&)
 - ✍ I'm a Front-End Developer<br>
 - 🌱 I'm learning Back-End Development<br>
 - 🚀 Currently, I am working on React and Django<br>
@@ -25,9 +24,9 @@
 
 ### 💻🔗 Social
 
-<a href="" target="blank"><img align="center" src="https://github.com/tarnilok/tarnilok/blob/main/images/Medium.svg" width= "150px" height="30px" alt="Medium" /></a>
- <a href="" target="blank"><img align="center" width= "150px" height="30px" src="https://github.com/tarnilok/tarnilok/blob/main/images/LinkedIn.svg" alt="LinkedIn" /></a>
-
+<!-- <a href="" target="blank"><img align="center" src="https://github.com/tarnilok/tarnilok/blob/main/images/Medium.svg" width= "150px" height="30px" alt="Medium" /></a> -->
+ <a href="" target="blank"><img align="center" width= "150px" height="30px" src="https://github.com/tarnilok/tarnilok/blob/main/images/LinkedIn.svg" alt="LinkedIn" /></a><br>
+![](https://komarev.com/ghpvc/?username=tarnilok)
 
 <hr class="dotted">
 
