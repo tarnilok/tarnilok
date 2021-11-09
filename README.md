@@ -29,7 +29,7 @@
 <img align="left" alt="mongoDB" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/mongoDB.png" />
 <img align="left" alt="MySQL" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/MySQL.png"/>
 <img align="left" alt="heroku" height="50px" src="https://github.com/tarnilok/tarnilok/blob/main/images/heroku.png"/>
-<br><br><br><br>
+<br><br><br><br><br>
 <hr class="dotted">
 
 ### 💻🔗 Social
