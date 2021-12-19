@@ -1,9 +1,8 @@
 <h1 align="left"><code>Hi there👋, I'm Koray</code></h1>
-<h2 align="left"><code>I'm a Husband, Father, Web Developer and an Engineer</code></h2>
-- ✍ I'm a FullStack Developer<br>
+<h2 align="left"><code>I'm a Husband, Father, FullStack Developer and an Engineer</code></h2>
 - 🌱 I'm learning React Native and Node.js<br>
 - 💻 Currently, I am working on ReactJS and Django<br>
-- 🙏 I am working tightly to develop myself with new skills
+- 🙏 I am working tightly to develop myself with new skills<br>
 - 🚀 I want to make a new breaktrough in my life in 2022<br>
 <hr class="dotted">
 
