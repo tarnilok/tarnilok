@@ -7,7 +7,7 @@
 
 <hr style="height:1px"/>
 
-<div style="display:flex; flex-wrap:wrap; gap:7px">
+<!-- <div style="display:flex; flex-wrap:wrap; gap:7px"> -->
 
 <img align="center" src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&labelColor=white&color=3178C6&logoColor=3178C6&label=%20
 " alt="typescript"/>
@@ -18,7 +18,7 @@
 <img align="center" src="https://img.shields.io/static/v1?message=Python&logo=python&labelColor=white&color=3776AB&logoColor=3776AB&label=%20
 " alt="python"/>
 
-</div>
+<!-- </div> -->
 
 <div style="display:flex; flex-wrap:wrap; gap:7px">
 
@@ -48,7 +48,6 @@
 
 <hr style="height:1px"/>
 
-
 <div style="display:flex; flex-wrap:wrap; gap:7px">
 
 <a href="mailto:tarnilok@gmail.com"><img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=white&color=ea4335&logoColor=ea4335&label=%20
@@ -60,7 +59,7 @@
 <a href="https://twitter.com/tarnilok"><img align="center" src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&labelColor=white&color=1D9BF0&logoColor=1D9BF0&label=%20
 " alt="twitter"/></a>
 
-<a href="https://www.instagram.com/tarnilok_/"><img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&labelColor=white&color=E4405F&logoColor=E4405F&label=%20
+<a href="https://www.instagram.com/tarnilok_/"><img align="center" src="https://img.shields.io/static/**v1**?message=Instagram&logo=instagram&labelColor=white&color=E4405F&logoColor=E4405F&label=%20
 " alt="instagram"/></a>
 
 </div>
