@@ -48,20 +48,14 @@
 
 <hr style="height:1px"/>
 
-<div style="display:flex; flex-wrap:wrap; gap:7px;align-items:center;">
+<div class="display:flex; flex-wrap:wrap; gap:7px;align-items:center;">
 
 ![gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=white&color=ea4335&logoColor=ea4335&label=%20)
 
-<a href="mailto:tarnilok@gmail.com"><img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=white&color=ea4335&logoColor=ea4335&label=%20
-" alt="gmail"/></a>
+![linkedin](https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=white&color=0A66C2&logoColor=0A66C2&label=%20)
 
-<a href="https://www.linkedin.com/in/koray-eker/"><img align="center" src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=white&color=0A66C2&logoColor=0A66C2&label=%20
-" alt="linkedin"/></a>
+![twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&labelColor=white&color=1D9BF0&logoColor=1D9BF0&label=%20)
 
-<a href="https://twitter.com/tarnilok"><img align="center" src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&labelColor=white&color=1D9BF0&logoColor=1D9BF0&label=%20
-" alt="twitter"/></a>
-
-<a href="https://www.instagram.com/tarnilok_/"><img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&labelColor=white&color=E4405F&logoColor=E4405F&label=%20
-" alt="instagram"/></a>
+![instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&labelColor=white&color=E4405F&logoColor=E4405F&label=%20)
 
 </div>
