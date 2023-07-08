@@ -48,7 +48,9 @@
 
 <hr style="height:1px"/>
 
-<div style="display:flex; flex-wrap:wrap; gap:7px">
+<div style="display:flex; flex-wrap:wrap; gap:7px;align-items:center;">
+
+![gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=white&color=ea4335&logoColor=ea4335&label=%20)
 
 <a href="mailto:tarnilok@gmail.com"><img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=white&color=ea4335&logoColor=ea4335&label=%20
 " alt="gmail"/></a>
