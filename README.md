@@ -1,5 +1,6 @@
 <h3>Hello there 👋</h3>
-<h4>A Frontend Developer by day 🌞 a Backend Developer by night 🌙</h4>
+<h4>🌞 A Frontend Developer by day</h4>
+<h4>🌙 A Backend Developer by night</h4>
 <!-- <p>♔ </p>
 <p>♕ </p>
 <p>♖ </p>
@@ -47,13 +48,15 @@
 
 ![testing_library](https://img.shields.io/static/v1?message=Testing%20Library&logo=testing%20library&labelColor=white&color=E33332&logoColor=E33332&label=%20)
 
+![grafana](https://img.shields.io/static/v1?message=Grafana&logo=grafana&labelColor=white&color=F46800&logoColor=F46800&label=%20)
+
 ![mui](https://img.shields.io/static/v1?message=Mui&logo=mui&labelColor=white&color=007FFF&logoColor=007FFF&label=%20)
 
 ![ant_design](https://img.shields.io/static/v1?message=Ant%20Design&logo=Ant%20Design&labelColor=white&color=0170FE&logoColor=0170FE&label=%20)
 
 ![tailwind_css](https://img.shields.io/static/v1?message=Tailwind%20CSS&logo=Tailwind%20CSS&labelColor=white&color=06B6D4&logoColor=06B6D4&label=%20)
 
-![styled_components](https://img.shields.io/static/v1?message=Styled%20Components&logo=styled%2Dcomponents&labelColor=white&color=DB7093&logoColor=DB7093&label=%20)
+![styled_components](https://img.shields.io/static/v1?message=Styled%20Components&logo=styled-components&labelColor=white&color=DB7093&logoColor=DB7093&label=%20)
 
 ![sass](https://img.shields.io/static/v1?message=Sass&logo=sass&labelColor=white&color=CC6699&logoColor=CC6699&label=%20)
 
@@ -75,7 +78,7 @@
 
 ![npm](https://img.shields.io/static/v1?message=Npm&logo=npm&labelColor=white&color=CB3837&logoColor=CB3837&label=%20)
 
-![yarn](https://img.shields.io/static/v1?message=Yarn&logo=yarn&labelColor=white&color=2C8EBB&logoColor=2C8EBB&label=%20)
+![yarn](https://img.shields.io/static/v1?message=Yarn&logo=Yarn&labelColor=white&color=2C8EBB&logoColor=2C8EBB&label=%20)
 
 </div>
 
@@ -83,7 +86,7 @@
 
 <p>
 
-![express](https://img.shields.io/static/v1?message=Express&logo=express&labelColor=white&color=000000&logoColor=000000&label=%20)
+![express](https://img.shields.io/static/v1?message=Express&logo=Express&labelColor=white&color=000000&logoColor=000000&label=%20)
 
 ![nestjs](https://img.shields.io/static/v1?message=NestJS&logo=nestjs&labelColor=white&color=E0234E&logoColor=E0234E&label=%20)
 
@@ -96,6 +99,8 @@
 ![mysql](https://img.shields.io/static/v1?message=MySQL&logo=mysql&labelColor=white&color=4479A1&logoColor=4479A1&label=%20)
 
 ![mongoDB](https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&labelColor=white&color=47A248&logoColor=47A248&label=%20)
+
+![graphql](https://img.shields.io/static/v1?message=GraphQL&logo=graphql&labelColor=white&color=E10098&logoColor=E10098&label=%20)
 
 </p>
 
