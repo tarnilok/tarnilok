@@ -5,7 +5,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 ![typescript](https://img.shields.io/static/v1?message=TypeScript&logo=typescript&labelColor=white&color=3178C6&logoColor=3178C6&label=%20)
 
