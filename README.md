@@ -30,7 +30,7 @@
 
 <p>
 
-![gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=white&color=ea4335&logoColor=ea4335&label=%20)
+<a href="mailto:tarnilok@gmail.com" target="_blank">![gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=white&color=ea4335&logoColor=ea4335&label=%20)</a>
 
 ![linkedin](https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=white&color=0A66C2&logoColor=0A66C2&label=%20&style=social) ![twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&labelColor=white&color=1D9BF0&logoColor=1D9BF0&label=%20&style=social)
 
