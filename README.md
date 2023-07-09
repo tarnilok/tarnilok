@@ -5,7 +5,7 @@
 <p>♖ </p>
 <p>♘ </p> -->
 
-<hr style="height:1px"/>
+<hr size="height:1px"/>
 
 <div style="display:flex; flex-wrap:wrap; gap:7px">
 
@@ -48,14 +48,17 @@
 
 <hr style="height:1px"/>
 
-<div style="display:flex; flex-wrap:wrap; gap:7px;align-items:center;">
+<!-- <div style="display:flex; flex-wrap:wrap; gap:7px;align-items:center;"> -->
+<div class="d-flex ps-relative fw-wrap">
 
-![gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=white&color=ea4335&logoColor=ea4335&label=%20)
 
-![linkedin](https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=white&color=0A66C2&logoColor=0A66C2&label=%20)
+![gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=white&color=ea4335&logoColor=ea4335&label=%20&style=social)
 
-![twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&labelColor=white&color=1D9BF0&logoColor=1D9BF0&label=%20)
+![linkedin](https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=white&color=0A66C2&logoColor=0A66C2&label=%20&style=social)
 
-![instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&labelColor=white&color=E4405F&logoColor=E4405F&label=%20)
+![twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&labelColor=white&color=1D9BF0&logoColor=1D9BF0&label=%20&style=social)
+
+![instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&labelColor=white&color=E4405F&logoColor=E4405F&label=%20&style=social)
+
 
 </div>
