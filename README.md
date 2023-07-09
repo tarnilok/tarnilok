@@ -1,14 +1,11 @@
-<h3>Hello there 👋</h3>
+<h3>Greetings! 👋"</h3>
 <h4>🌞 A Frontend Developer by day</h4>
 <h4>🌙 A Backend Developer by night</h4>
-<!-- <p>♔ </p>
-<p>♕ </p>
-<p>♖ </p>
-<p>♘ </p> -->
+<h4>Welcome to my GitHub Profile! Here, you can explore a collection of my projects, ranging from sleek frontend designs to powerful backend solutions. Please feel free to reach out and contact me</h4>
 
 <br/>
 
-<div style="display:flex; flex-wrap:wrap; gap:7px">
+<div align="center">
 
 ![typescript](https://img.shields.io/static/v1?message=TypeScript&logo=typescript&labelColor=white&color=3178C6&logoColor=3178C6&label=%20)
 
