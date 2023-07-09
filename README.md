@@ -1,9 +1,13 @@
-### Greetings! 👋"
+### Greetings! 👋
+
 #### 🌞 A Frontend Developer by day
+
 #### 🌙 A Backend Developer by night
-#### Welcome to my GitHub Profile! Here, you can explore a collection of my projects, ranging from sleek frontend designs to powerful backend solutions. Please feel free to reach out and contact me.
+
+#### Welcome to my GitHub Profile! Here, you can explore a collection of my projects, ranging from sleek frontend designs to powerful backend solutions. Please feel free to reach out and contact me.
 
 #### Some of My Skills:
+
 <p>
 
 ![typescript](https://img.shields.io/static/v1?message=TypeScript&logo=typescript&labelColor=white&color=3178C6&logoColor=3178C6&label=%20) ![javascript](https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=white&color=F7DF1E&logoColor=F7DF1E&label=%20) ![html5](https://img.shields.io/static/v1?message=HTML5&logo=html5&labelColor=white&color=E34F26&logoColor=E34F26&label=%20) ![css3](https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=white&color=1572B6&logoColor=1572B6&label=%20) ![nodejs](https://img.shields.io/static/v1?message=Node.js&logo=node.js&labelColor=white&color=339933&logoColor=339933&label=%20) ![python](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=white&color=3776AB&logoColor=3776AB&label=%20)
@@ -22,6 +26,7 @@
 
 </p>
 
+<br/>
 
 <p>
 
