@@ -54,7 +54,6 @@
 <p align="center">
 
 ![linkedin](https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=white&color=0A66C2&logoColor=0A66C2&label=%20&style=social)
-
 ![twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&labelColor=white&color=1D9BF0&logoColor=1D9BF0&label=%20&style=social)
 </p>
 
